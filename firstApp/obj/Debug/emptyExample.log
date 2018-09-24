@@ -1,0 +1,40 @@
+﻿  main.cpp
+  ofApp.cpp
+src\ofApp.cpp(7): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  f:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofGraphics.h(514): note:  см. объявление "ofRect"
+src\ofApp.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(78): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  f:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofGraphics.h(514): note:  см. объявление "ofRect"
+src\ofApp.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(267): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(287): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(556): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(571): warning C4018: <: несоответствие типов со знаком и без знака
+src\ofApp.cpp(575): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  f:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofGraphics.h(514): note:  см. объявление "ofRect"
+src\ofApp.cpp(585): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека bin\firstProject_debug.lib и объект bin\firstProject_debug.exp
+  emptyExample.vcxproj -> F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\firstApp\bin\firstProject_debug.exe
+  
+  	                   2	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    Новый файл		 1266176	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    Новый файл		 1312768	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1266176	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\firstApp\bin\fmodex.dll
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1312768	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\firstApp\bin\fmodexL.dll
+  	    Новый файл		 5647872	F:\c++\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
